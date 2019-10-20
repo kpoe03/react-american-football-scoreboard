@@ -27,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/kpoe03/react-american-football-scoreboard.git",
+  "author": "kpoe03 <52971991+kpoe03@users.noreply.github.com>",
+  "license": "MIT"
 }
